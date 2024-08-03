@@ -1,0 +1,3 @@
+[submodule "components/gecl-motion-sensor-manager"]
+	path = components/gecl-motion-sensor-manager
+	url = https://github.com/gamename-esp32-component-library/GECL-motion-sensor-manager
